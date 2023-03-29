@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento web",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "creadeAt": "27/03/2023"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "creadeAt": "21/03/2023",
+      "price": 50
+    },
+    {
+      "id": 3,
+      "description": "Ignite",
+      "type": "outcome",
+      "category": "Educação",
+      "creadeAt": "20/03/2023",
+      "price": 80
+    },
+    {
+      "description": "Internet",
+      "price": 50,
+      "category": "web",
+      "type": "outcome",
+      "createdAt": "2023-03-21T16:50:37.072Z",
+      "id": 4
+    }
+  ]
+}
