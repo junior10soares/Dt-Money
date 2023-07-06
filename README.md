@@ -33,10 +33,3 @@ npm install
 
 # executar o projeto
 npm start
-
-# Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
-
